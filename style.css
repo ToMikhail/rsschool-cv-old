@@ -1,10 +1,37 @@
 body {
-    font-family: "Segoe UI", Helvetica, Arial, sans-serif; 
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
-.container { 
-    max-width: 1024px;
-    margin: 0 auto; 
+ul {
+    padding-left: 1em;
+}
+
+.container {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+.flex-wrap {
+    display: flex;
+}
+
+.flex-wrap-row {
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flex-wrap-col {
+    flex-direction: column;
+}
+
+.line {
+    width: 100%;
+    background-color: black; 
+    height: 2px;
+}
+
+.subtitle {
+    font-size: 1.4em;
 }
 
 img {
@@ -14,9 +41,8 @@ img {
 h2.name {
     display: inline-block;
 }
- 
+
 li.contacts {
-    width: max-content;
     min-height: 110px;
 }
 
@@ -25,14 +51,14 @@ li li {
 }
 
 .info {
-    display:inline-block;
-    width:max-content;
+    display: inline-block;
+    width: max-content;
 }
 
 ul.info-contact {
     min-width: 350px;
     width: max-content;
-} 
+}
 
 pre {
     background-color: rgb(213, 244, 248);
@@ -41,4 +67,3 @@ pre {
 .lnk {
     display: inline-block;
 }
-
