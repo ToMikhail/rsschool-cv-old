@@ -74,10 +74,6 @@ pre {
   align-items: center;
 }
 
-.footer__list-wrapper {
-  /* width: 100%; */
-}
-
 .footer__list {
   display: flex;
   flex-direction: row-reverse;
