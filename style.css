@@ -91,6 +91,6 @@ pre {
   fill: grey;
 }
 
-.rsschool path {
+.rsschool > path {
   fill: black;
 }
