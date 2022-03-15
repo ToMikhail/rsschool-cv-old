@@ -59,7 +59,7 @@ the real cases and challenges.
 - Degree (diploma): Master
 - Course: Computer science - Educational Center of High-Tech Park Belarus
 - Course: HTML, CSS, JavaScript – Educational Center of High-Tech Park Belarus
-  
+
 ---
 
 ### ***<a name='language'></a>Languages:***
