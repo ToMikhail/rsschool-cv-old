@@ -4,12 +4,12 @@
  
 
 * [Contacts](#contacts)
-* [Summary](###summary)
-* [Skills](###skills)
-* [Code examples](###code)
-* [Experience](###experience)
-* [Education](###education)
-* [English](###language)
+* [Summary](#summary)
+* [Skills](#skills)
+* [Code examples](#code)
+* [Experience](#experience)
+* [Education](#education)
+* [English](#language)
 
 ___
  ### ***<a name='contacts'></a> Contacts:***
